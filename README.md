@@ -6,7 +6,7 @@
 
 ## Labelme转YOLO-目标检测
 
-## Labelme转YOLO-语义分割
+## Labelme转YOLO-图像分割
 
 ## Labelme转YOLO-关键点检测
 
