@@ -1,0 +1,116 @@
+{
+  "categories": [
+    {
+      "supercategory": "sjb_rect",
+      "id": 1,
+      "name": "sjb_rect",
+      "keypoints": [
+        "angle_30",
+        "angle_60",
+        "angle_90"
+      ],
+      "skeleton": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          2
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "DSC_0281.jpg",
+      "height": 3712,
+      "width": 5568,
+      "id": 0
+    }
+  ],
+  "annotations": [
+    {
+      "category_id": 1,
+      "segmentation": [
+        [
+          1202.0,
+          28.0
+        ],
+        [
+          4454.0,
+          280.0
+        ],
+        [
+          1938.0,
+          1524.0
+        ]
+      ],
+      "iscrowd": 0,
+      "image_id": 0,
+      "id": 0,
+      "bbox": [
+        1138,
+        0,
+        3342,
+        1562
+      ],
+      "area": 5220204,
+      "num_keypoints": 3,
+      "keypoints": [
+        4434,
+        284,
+        2,
+        1202,
+        44,
+        2,
+        1934,
+        1512,
+        2
+      ]
+    },
+    {
+      "category_id": 1,
+      "segmentation": [
+        [
+          1222.0,
+          1992.0
+        ],
+        [
+          4542.0,
+          2292.0
+        ],
+        [
+          1918.0,
+          3532.0
+        ]
+      ],
+      "iscrowd": 0,
+      "image_id": 0,
+      "id": 1,
+      "bbox": [
+        1160,
+        1954,
+        3400,
+        1612
+      ],
+      "area": 5480800,
+      "num_keypoints": 3,
+      "keypoints": [
+        4526,
+        2316,
+        2,
+        1218,
+        2000,
+        2,
+        1906,
+        3532,
+        2
+      ]
+    }
+  ]
+}
