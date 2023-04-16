@@ -1,0 +1,74 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Triangle_30",
+      "points": [
+        [
+          172.52941176470614,
+          100.35294117647076
+        ],
+        [
+          2054.8823529411766,
+          976.8235294117648
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Triangle_45",
+      "points": [
+        [
+          2422.529411764706,
+          432.70588235294133
+        ],
+        [
+          3569.5882352941176,
+          1673.8823529411766
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Angle",
+      "points": [
+        [
+          1128.4117647058827,
+          1000.3529411764706
+        ],
+        [
+          2510.764705882353,
+          1844.4705882352944
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Ruler",
+      "points": [
+        [
+          290.17647058823553,
+          2029.764705882353
+        ],
+        [
+          2510.764705882353,
+          2626.8235294117644
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "1.jpg",
+  "imageData": null,
+  "imageHeight": 2736,
+  "imageWidth": 3648
+}
