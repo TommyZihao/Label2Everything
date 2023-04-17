@@ -4,7 +4,9 @@
 
 ## Labelme标注注意事项
 
-## Labelme转COCO-目标检测、图像分割、关键点检测
+## Labelme转COCO-关键点检测
+
+## Labelme转COCO-目标检测、实例分割
 
 ## Labelme转YOLO-目标检测
 
