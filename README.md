@@ -6,14 +6,26 @@
 
 ## Labelme转COCO-关键点检测
 
+labelme2coco-keypoint
+
 ## Labelme转COCO-目标检测、实例分割
+
+labelme2coco-detection
 
 ## Labelme转YOLO-目标检测
 
-## Labelme转YOLO-图像分割
+labelme2yolo-detection
+
+## Labelme转YOLO-实例分割
+
+labelme2yolo-segmentation
 
 ## Labelme转YOLO-关键点检测
 
-## Labelimg标注注意事项
+labelme2yolo-keypoint
 
 ## Pascal VOC转YOLO-目标检测
+
+pascalvoc2yolo-detection
+
+## Labelimg标注注意事项
