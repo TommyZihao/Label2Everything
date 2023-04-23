@@ -24,7 +24,7 @@ labelme2yolo-segmentation
 
 labelme2yolo-keypoint
 
-## Labelme2mask
+## Labelme转mask
 
 Labelme转mask图-语义分割
 
