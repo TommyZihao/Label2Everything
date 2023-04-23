@@ -24,6 +24,10 @@ labelme2yolo-segmentation
 
 labelme2yolo-keypoint
 
+## Labelme2mask
+
+Labelme转mask图-语义分割
+
 ## Pascal VOC转YOLO-目标检测
 
 pascalvoc2yolo-detection
